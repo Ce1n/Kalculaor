@@ -1,2 +1,2 @@
 # Kalculaor
-Simple calculator with a basic design useing HTML, JavaScript and CSS
+Simple calculator with a basic design using HTML, JavaScript and CSS
